@@ -1,0 +1,8 @@
+{
+  // 配置项：https://ice.work/docs/guide/basic/build
+  "entry": "src/index.jsx",
+  "plugins": [
+    "build-plugin-react-app",
+    "./build.plugin.js"
+  ]
+}
